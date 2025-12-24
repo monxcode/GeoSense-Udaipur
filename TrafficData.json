@@ -1,0 +1,142 @@
+[
+  {
+    "road": "MG Road",
+    "location": [24.5854, 73.7125],
+    "congestion": 70,
+    "accidents": 2,
+    "averageSpeed": 25
+  },
+  {
+    "road": "Lake Pichola Road",
+    "location": [24.5754, 73.6900],
+    "congestion": 40,
+    "accidents": 0,
+    "averageSpeed": 35
+  },
+  {
+    "road": "Airport Road",
+    "location": [24.6050, 73.7250],
+    "congestion": 55,
+    "accidents": 1,
+    "averageSpeed": 30
+  },
+  {
+    "road": "Hiran Magri",
+    "location": [24.5700, 73.7300],
+    "congestion": 65,
+    "accidents": 1,
+    "averageSpeed": 28
+  },
+  {
+    "road": "Sukhadia Circle",
+    "location": [24.5800, 73.7000],
+    "congestion": 85,
+    "accidents": 3,
+    "averageSpeed": 15
+  },
+  {
+    "road": "Fateh Sagar Road",
+    "location": [24.5950, 73.6800],
+    "congestion": 35,
+    "accidents": 0,
+    "averageSpeed": 40
+  },
+  {
+    "road": "Chetak Circle",
+    "location": [24.5900, 73.7100],
+    "congestion": 75,
+    "accidents": 2,
+    "averageSpeed": 22
+  },
+  {
+    "road": "Bapu Bazaar",
+    "location": [24.5780, 73.6850],
+    "congestion": 90,
+    "accidents": 1,
+    "averageSpeed": 10
+  },
+  {
+    "road": "University Road",
+    "location": [24.6000, 73.7400],
+    "congestion": 45,
+    "accidents": 0,
+    "averageSpeed": 38
+  },
+  {
+    "road": "Shastri Circle",
+    "location": [24.5720, 73.7050],
+    "congestion": 60,
+    "accidents": 1,
+    "averageSpeed": 27
+  },
+  {
+    "road": "Rani Road",
+    "location": [24.5650, 73.6800],
+    "congestion": 30,
+    "accidents": 0,
+    "averageSpeed": 45
+  },
+  {
+    "road": "Delhi Gate",
+    "location": [24.5850, 73.6950],
+    "congestion": 80,
+    "accidents": 2,
+    "averageSpeed": 18
+  },
+  {
+    "road": "Ambamata Road",
+    "location": [24.5900, 73.6900],
+    "congestion": 50,
+    "accidents": 0,
+    "averageSpeed": 32
+  },
+  {
+    "road": "Ashwini Marg",
+    "location": [24.5950, 73.7200],
+    "congestion": 40,
+    "accidents": 0,
+    "averageSpeed": 36
+  },
+  {
+    "road": "Sector 14 Road",
+    "location": [24.6100, 73.7100],
+    "congestion": 25,
+    "accidents": 0,
+    "averageSpeed": 48
+  },
+  {
+    "road": "Goverdhan Villas Road",
+    "location": [24.6200, 73.7000],
+    "congestion": 20,
+    "accidents": 0,
+    "averageSpeed": 50
+  },
+  {
+    "road": "Durga Nursery Road",
+    "location": [24.5650, 73.6950],
+    "congestion": 70,
+    "accidents": 1,
+    "averageSpeed": 24
+  },
+  {
+    "road": "Rajiv Gandhi Nagar",
+    "location": [24.6150, 73.7350],
+    "congestion": 35,
+    "accidents": 0,
+    "averageSpeed": 42
+  },
+  {
+    "road": "Saheli Marg",
+    "location": [24.6000, 73.6900],
+    "congestion": 60,
+    "accidents": 0,
+    "averageSpeed": 29
+  },
+  {
+    "road": "New Fatehpura Road",
+    "location": [24.6100, 73.6800],
+    "congestion": 45,
+    "accidents": 0,
+    "averageSpeed": 34
+  }
+]
