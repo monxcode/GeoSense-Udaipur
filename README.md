@@ -21,5 +21,7 @@ A smart traffic and safety intelligence dashboard for Udaipur that visualizes mo
 
 ## Getting Started
 
-###  live preview  `https://monxcode.github.io/GeoSense-Udaipur/`
+###  live preview 
+
+ `https://monxcode.github.io/GeoSense-Udaipur/`
 
