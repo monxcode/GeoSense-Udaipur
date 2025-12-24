@@ -21,13 +21,5 @@ A smart traffic and safety intelligence dashboard for Udaipur that visualizes mo
 
 ## Getting Started
 
-### Option 1: GitHub Pages (Recommended)
-1. Fork this repository
-2. Go to Settings → Pages
-3. Select "main branch" as source
-4. Your site will be live at `https://username.github.io/repository-name`
+###  live preview  `https://monxcode.github.io/GeoSense-Udaipur/`
 
-### Option 2: Local Development
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/geosense-udaipur.git
